@@ -34,7 +34,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://planetscale.com/brand/planetscale-logo-mark-black.svg">
     <img align="absmiddle" src="https://planetscale.com/brand/planetscale-logo-mark-black.svg" alt="planetscale" height="24">
   </picture>
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="24">
+  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="24">
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" height="24">
    · 
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amazonwebservices" height="24">
