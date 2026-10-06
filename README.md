@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i098&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i098&layout=compact&show_icons=true&theme=transparent" alt="Top Langs">
+  <img src="./stats.svg" alt="Jerry's GitHub stats">
+  <img src="./top-langs.svg" alt="Top Langs">
 </p>
 <p align="center">
   <img align="absmiddle" src="https://cdn.simpleicons.org/apple/cccccc" alt="apple" height="24">
