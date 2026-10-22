@@ -15,9 +15,9 @@
    · 
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="24">
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" height="24">
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="24">
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="24">
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" height="24">
+  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="go" height="24">
   <img align="absmiddle" src="https://cdn.simpleicons.org/rust/808080" alt="rust" height="24">
    · 
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="24">
