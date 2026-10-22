@@ -33,7 +33,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://planetscale.com/brand/planetscale-logo-mark-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://planetscale.com/brand/planetscale-logo-mark-black.svg">
-    <img align="absmiddle" src="https://planetscale.com/brand/planetscale-logo-mark-black.svg" alt="planetscale" height="24">
+    <img align="absmiddle" src="https://planetscale.com/brand/planetscale-logo-mark-black.svg" alt="planetscale" height="20">
   </picture>
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" height="24">
    · 
